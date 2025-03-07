@@ -4,6 +4,7 @@ Project Overview:
 The AWS-powered User Data Management System is a Flask-based web application that enables users to enter and manage their details. The data is securely stored in AWS RDS (MySQL). The application is deployed on AWS EC2, ensuring scalability and reliability.
 
 Technology Stack
+
 Frontend: HTML, CSS, JavaScript
 Backend: Python (Flask)
 Database: AWS RDS (MySQL)
