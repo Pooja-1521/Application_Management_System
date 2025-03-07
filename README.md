@@ -10,15 +10,9 @@ Database: AWS RDS (MySQL)
 Hosting: AWS EC2
 
 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/your-repo/aws-user-data-management.git
 cd aws-user-data-management
 2. Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3. Configure AWS Credentials
 Ensure your AWS credentials are set up using aws configure or environment variables.
